@@ -7,6 +7,10 @@ export default new Vuex.Store({
   state: {
   },
   mutations: {
+    //set
+  },
+  getters:{
+
   },
   actions: {
   },
